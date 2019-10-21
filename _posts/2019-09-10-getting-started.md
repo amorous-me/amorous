@@ -4,7 +4,7 @@ title: "Touch people in a special way"
 author: "Sebastian"
 categories: documentation
 tags: [documentation,sample]
-image: girl_laughing.jpg
+image: girl-laughing.jpg
 ---
 
 # Say it with romance.
