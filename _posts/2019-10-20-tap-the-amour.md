@@ -7,5 +7,5 @@ tags: [documentation,sample]
 image: ai-hand.jpg
 ---
 
-## Tap the amour of more than 20.000 romantic pieces.
+# Tap the amour of more than 20.000 romantic pieces.
 Trained with an extensive body of romantic and passionate poems, essays and texts our tool uses artificial intelligence to generate romantic ideas for you and your loved ones in written form.
