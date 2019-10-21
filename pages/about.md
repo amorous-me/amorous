@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Amorous.ai builds on different romantic books and the FastAI library to create texts. Using generative adverserial networks, amorous.ai builds text from little input. Trained on colab and google cloud platforms, this service is running on github - pages and the service is benefitting from using onrender.com. Enjoy and boost your romance. 
