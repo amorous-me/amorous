@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to romantic deep technology"
 author: "Sebastian"
 categories: documentation
-tags: [documentation,sample]
+tags: [amour]
 image: ai-hand.jpg
 ---
 
