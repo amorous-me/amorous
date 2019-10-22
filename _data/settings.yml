@@ -12,7 +12,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', link: 'mailto:duerr.sebastian@gmail.com'}
+- {icon: 'envelope', link: 'mailto:'}
 
 # Customize site text
 pagination:
