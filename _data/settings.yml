@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-146421430-1'
 
 menu:
-- {name: 'Generate amour', folder: 'pages', file: 'try.html'}
-- {name: 'Stay tuned!', folder: 'pages', file: 'stay-tuned.html'}
+- {name: 'AI Romance', folder: 'pages', file: 'try.html'}
+- {name: 'Stay tuned', folder: 'pages', file: 'stay-tuned.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
