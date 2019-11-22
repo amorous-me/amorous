@@ -16,7 +16,7 @@ Trained with an extensive body of romantic and passionate poems, essays and text
      2. you verify your form on formspree.io.
 -->
 
-<form method="POST" action="https://formspree.io/duerr.sebastian@gmail.coom">
+<form method="POST" action="https://formspree.io/duerr.sebastian@gmail.com">
   <input type="email" name="email" placeholder="Your email">
   <input type="name" name="namae" placeholder="Your name">
   <textarea name="message" placeholder="Test Message"></textarea>
@@ -25,24 +25,24 @@ Trained with an extensive body of romantic and passionate poems, essays and text
 
 <style>
 form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
-    width: 100%;
+    width: 60%;
     vertical-align: middle;
-    margin-top: 0.25em;
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
     padding: 0.75em;
-    font-family: monospace, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     border-style: solid;
-    border-color: #444;
-    outline-color: #2e83e6;
+    border-color: black;
+    outline-color: black;
     border-width: 1px;
-    border-radius: 3px;
+    border-radius: 1px;
     transition: box-shadow .2s ease;
 }
 form.wj-contact input[type="submit"] {
     outline: none;
-    color: white;
-    background-color: #2e83e6;
+    color: black;
+    background-color: white;
     border-radius: 3px;
     padding: 0.5em;
     margin: 0.25em 0 0 0;
