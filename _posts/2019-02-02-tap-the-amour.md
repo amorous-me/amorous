@@ -17,9 +17,10 @@ Trained with an extensive body of romantic and passionate poems, essays and text
 -->
 
 <form method="POST" action="https://formspree.io/duerr.sebastian@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
-  <input type="name" name="namae" placeholder="Your name">
+  <input type="email" name="email" placeholder="Your email"></br>
+  <input type="name" name="namae" placeholder="Your name"></br>
   <textarea name="message" placeholder="Test Message"></textarea>
+  </br>
   <button type="submit">Submit AI text</button>
 </form>
 
