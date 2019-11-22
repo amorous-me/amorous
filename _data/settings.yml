@@ -7,8 +7,9 @@ disqus:
 google-ID: 'UA-146421430-1'
 
 menu:
-- {name: 'AI Romance', folder: 'pages', file: 'try.html'}
-- {name: 'Stay tuned', folder: 'pages', file: 'stay-tuned.html'}
+- {name: 'Home', folder: 'pages', file: 'index.html'}
+- {name: 'Try it!', folder: 'pages', file: 'try.html'}
+- {name: 'Subscribe', folder: 'pages', file: 'stay-tuned.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -20,8 +21,4 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy...'
-
-post_date_prefix: 'Written'
+sharing_button_prompt: 'Please share to spread amorous texts!'
