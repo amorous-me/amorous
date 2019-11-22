@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "amorous.ai"
+title:		           "amorous.me"
 description:	       "Use AI for your amorous ideas"
 author:              "Sebastian"
 
