@@ -4,7 +4,7 @@ title: "Welcome to romantic deep technology"
 author: "Sebastian"
 categories: documentation
 tags: [amour]
-image: ai-hand.jpg
+image: ai-hand-small.jpg
 ---
 
 # Tap the amour of more than 20.000 romantic pieces.
